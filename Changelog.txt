@@ -1,0 +1,4 @@
+jitsi-deploymeet 1.0
+-----------
+
+* feat: first release
